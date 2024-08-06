@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 💬 Ask me about **react**
+  
 
 - 📫 How to reach me **isurics2@gmail.com**
 
