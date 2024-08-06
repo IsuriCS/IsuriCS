@@ -25,3 +25,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isurics&" alt="isurics" /></p>
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=isurics&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
